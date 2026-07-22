@@ -1,3 +1,5 @@
+//ASCI VALUE
+
 import java.util.*;
 
 public class Question5{
@@ -9,8 +11,9 @@ public class Question5{
         int a = c;
         System.out.println(a);
 
-        int n = 65;
+        int n = 69;
         char v = (char) n;
+        System.out.println(v);
 
     }
 }
