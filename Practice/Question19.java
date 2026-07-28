@@ -6,17 +6,26 @@ public class Question19 {
 
         int original = sc.nextInt();
         int n = original;
-        int cube = 0;
+        Double result = 0.0;
+        int sum = 0;
 
         while (n != 0) {
             int digit = n % 10;
-            cube = cube + digit * digit * digit;
+            sum++;
             n = n / 10;
         }
-        if (cube == n) {
-            System.out.println(cube + "is Armstrorm number ");
+        n=original;
+
+         while (n != 0) {
+            int digit = n % 10;
+            result = result + Math.pow( digit,sum);
+            n = n / 10; 
+        }
+ 
+        if (result == original) {
+            System.out.println(result + " is Armstrorm number ");
         } else {
-            System.out.println("Not a armstrom number ");
+            System.out.println(" is Not a armstrom number ");
         }
     }
 }
