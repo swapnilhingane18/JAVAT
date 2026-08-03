@@ -1,127 +1,192 @@
 # ☕ Java Practice Repository
 
-> A structured collection of Java programs covering Core Java fundamentals, problem-solving, and Object-Oriented Programming concepts. This repository documents my learning journey toward becoming a Java Backend Developer.
+> A structured collection of Java programs documenting my journey from Java basics to backend development. This repository focuses on building strong problem-solving skills, clean coding practices, and interview-ready Java fundamentals.
 
 ---
 
-## 👨‍💻 About
+# 👨‍💻 About
 
-This repository contains Java programs that I have written while learning Core Java and preparing for software development interviews.
+Hi, I'm **Swapnil Hingane**, an Electronics & Telecommunication Engineering student with a strong interest in **Java Backend Development**.
 
-The goal is to build strong programming fundamentals before moving into Advanced Java, JDBC, Spring Boot, Microservices, and Backend Development.
+This repository contains the Java programs I solve daily while learning Core Java and preparing for software engineering interviews. Instead of simply collecting programs, I focus on understanding the logic behind each solution and writing clean, readable code.
 
----
-
-## 🚀 Skills Practiced
-
-### Core Java
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Methods
-- Arrays
-- Strings
-- Pattern Printing
-- Number Programs
-
-### Object-Oriented Programming
-- Classes & Objects
-- Constructors
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-- Interfaces
-
-### Problem Solving
-- Fibonacci Series
-- Prime Numbers
-- Palindrome
-- Armstrong Number
-- Largest & Smallest Number
-- Reverse Number
-- Digit Operations
-- Array Manipulation
-- String Manipulation
+My goal is to master Java fundamentals before moving to enterprise technologies like Spring Boot, REST APIs, and Microservices.
 
 ---
 
-## 📂 Repository Structure
+# 🚀 Topics Covered
 
-```
-JAVAT
+## Core Java
+
+* Variables & Data Types
+* Operators
+* Type Casting
+* User Input (Scanner)
+* Conditional Statements
+* Loops
+* Methods & Functions
+* Arrays
+* Strings
+* Pattern Printing
+
+---
+
+## Logic Building & Problem Solving
+
+### Number Programs
+
+* Reverse Number
+* Palindrome Number
+* Armstrong Number
+* Prime Number
+* Factorial
+* Fibonacci Series
+* Sum of Digits
+* Count Digits
+* Largest & Smallest Digit
+* Perfect Number
+* Strong Number
+* Power of a Number
+
+### Array Programs
+
+* Input & Output
+* Sum of Elements
+* Largest Element
+* Smallest Element
+* Linear Search
+* Reverse Array
+* Second Largest
+* More coming soon...
+
+---
+
+## Object-Oriented Programming
+
+* Classes & Objects
+* Constructors
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
+* Interfaces
+
+---
+
+# 📂 Repository Structure
+
+```text
+Java-Practice
 │
-├── Practice/
-│   ├── Arrays
-│   ├── Number Programs
-│   ├── Fibonacci
-│   └── Logic Building
+├── Basics/
+│   ├── Variables
+│   ├── Operators
+│   ├── Scanner
+│   ├── If Else
+│   ├── Switch
+│   ├── Loops
+│   └── Methods
 │
-├── Arrays.java
-├── Variables.java
-├── IfElse.java
-├── SwitchCase.java
-├── Loops.java
-├── StringOperations.java
-├── OOPBasics.java
-└── hello.java
+├── Number Programs/
+│
+├── Arrays/
+│
+├── Strings/
+│
+├── Pattern Printing/
+│
+├── OOP/
+│
+└── README.md
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-- Java
-- JDK 21
-- VS Code
-- Git
-- GitHub
-
----
-
-## 🎯 Learning Roadmap
-
-- ✅ Core Java
-- ✅ Object-Oriented Programming
-- 🔄 Collections Framework
-- 🔄 Exception Handling
-- ⏳ Multithreading
-- ⏳ File Handling
-- ⏳ JDBC
-- ⏳ Maven
-- ⏳ Spring Boot
-- ⏳ REST APIs
-- ⏳ Spring Security
+* Java
+* JDK 21
+* VS Code
+* Git
+* GitHub
 
 ---
 
-## 📈 Current Progress
+# 🎯 Learning Roadmap
 
-✔ 30+ Java programs completed
+## ✅ Completed
 
-✔ Core Java fundamentals covered
+* Core Java Basics
+* Operators
+* Conditional Statements
+* Loops
+* Methods & Functions
+* Number Programs
 
-✔ Daily problem-solving practice
+## 🚧 Currently Learning
 
-✔ Regular GitHub commits
+* Arrays
+* Strings
+* Pattern Problems
+
+## 📅 Next
+
+* Object-Oriented Programming
+* Exception Handling
+* Collections Framework
+* File Handling
+* Multithreading
+* JDBC
+* Maven
+* Spring Boot
+* REST APIs
+* Spring Security
+* Microservices
 
 ---
 
-## 💼 Career Objective
+# 📈 Progress
 
-I am an aspiring **Java Backend Developer** passionate about writing clean, efficient, and maintainable code. This repository reflects my continuous learning, coding practice, and preparation for software engineering opportunities.
+* ✅ 40+ Java Programs Solved
+* ✅ Daily Coding Practice
+* ✅ Focus on Logic Building
+* ✅ Regular GitHub Commits
+* ✅ Interview Preparation in Progress
 
 ---
 
-## 📫 Connect With Me
+# 💡 What I'm Learning
+
+This repository is not just a collection of Java programs.
+
+It represents my journey of learning how to:
+
+* Think logically before coding
+* Break complex problems into smaller steps
+* Write clean and readable Java code
+* Build a strong foundation for backend development
+* Prepare for technical interviews
+
+---
+
+# 💼 Career Goal
+
+I am an aspiring **Java Backend Developer** focused on building scalable backend applications using Java and Spring Boot.
+
+I believe that strong programming fundamentals are the foundation of great software engineering, and this repository reflects my continuous effort to improve every day.
+
+---
+
+# 📫 Connect With Me
 
 **Swapnil Hingane**
 
-- 💼 LinkedIn: **
-- 📧 Email: *swapnilhingane9290@gmail.com*
-- 🌐 Portfolio: *https://swapnilhingane.in/*
+💼 LinkedIn: *(Add your LinkedIn URL)*
+
+🌐 Portfolio: https://swapnilhingane.in/
+
+📧 Email: [swapnilhingane9290@gmail.com](mailto:swapnilhingane9290@gmail.com)
 
 ---
 
-### ⭐ If you find this repository useful, consider giving it a Star.
+⭐ If you found this repository helpful, consider giving it a **Star**. Feedback and suggestions are always welcome!
