@@ -20,5 +20,5 @@ if(index!=-1){
     System.out.println("Number found at index "+ index);
 }else{
     System.out.println("Not Found");
-}
+} 
 }}
