@@ -15,13 +15,13 @@ public class Arrays18 {
         int count2 = 0;
 
         for (int i = 0; i < n; i++) {
-            if (i == 0 || i % 2 == 0) {
+            if (i % 2 == 0) {
                 count1 = count1 + arr[i];
             } else {
                 count2 = count2 + arr[i];
             }
         }
-        System.out.println("sum of even num count " + count1);
-        System.out.println("sum of odd num count " + count2);
+        System.out.println("sum of even indexes " + count1);
+        System.out.println("sum of odd indexes " + count2);
     }
 }
