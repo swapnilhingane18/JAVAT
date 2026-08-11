@@ -142,34 +142,24 @@ Java-Practice
 
 # 🎯 Learning Roadmap
 
-## ✅ Completed
+A step-by-step progression from Java fundamentals to production-grade backend development.
 
-* Core Java Basics
-* Operators
-* Conditional Statements
-* Loops
-* Methods & Functions
-* Number Programs
-
-## 🚧 Currently Learning
-
-* Arrays
-* Strings
-* Pattern Problems
-
-## 📅 Next
-
-* Object-Oriented Programming
-* Exception Handling
-* Collections Framework
-* File Handling
-* Multithreading
-* JDBC
-* Maven
-* Spring Boot
-* REST APIs
-* Spring Security
-* Microservices
+| Stage | Topic | Status |
+|-------|-------|--------|
+| 1 | Core Java — Variables, Operators, Control Flow, Loops, Methods | ✅ Completed |
+| 2 | Arrays & Problem Solving | 🚧 In Progress |
+| 3 | Strings & Pattern Problems | 🚧 In Progress |
+| 4 | DSA Foundations — Searching, Sorting, Two Pointers | 📅 Upcoming |
+| 5 | Object-Oriented Programming | 📅 Upcoming |
+| 6 | Exception Handling & File Handling | 📅 Upcoming |
+| 7 | Collections Framework | 📅 Upcoming |
+| 8 | Multithreading | 📅 Upcoming |
+| 9 | JDBC | 📅 Upcoming |
+| 10 | Maven | 📅 Upcoming |
+| 11 | Spring Boot | 📅 Upcoming |
+| 12 | REST APIs | 📅 Upcoming |
+| 13 | Spring Security | 📅 Upcoming |
+| 14 | Microservices | 📅 Upcoming |
 
 ---
 
@@ -183,17 +173,16 @@ Java-Practice
 
 ---
 
-# 💡 What I'm Learning
+# 🧠 Problem-Solving Approach
 
-This repository is not just a collection of Java programs.
+For every problem I attempt — whether custom practice or LeetCode — I follow this workflow:
 
-It represents my journey of learning how to:
-
-* Think logically before coding
-* Break complex problems into smaller steps
-* Write clean and readable Java code
-* Build a strong foundation for backend development
-* Prepare for technical interviews
+1. **Understand the Problem** — Read carefully, identify inputs, outputs, and constraints
+2. **Find the Pattern** — Recognise if it maps to a known technique (traversal, two-pointer, search, etc.)
+3. **Write the Logic** — Plan the approach in plain steps before writing code
+4. **Dry Run** — Trace through the logic manually with a small example
+5. **Test Edge Cases** — Empty array, single element, all negatives, duplicates, etc.
+6. **Analyze Complexity** — Evaluate Time Complexity (Big O) and Space Complexity before finalising
 
 ---
 
