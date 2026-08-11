@@ -54,10 +54,25 @@ My goal is to master Java fundamentals before moving to enterprise technologies 
 * Sum of Elements
 * Largest Element
 * Smallest Element
+* Average of Elements
+* Even & Odd Count
+* Even & Odd Sum
 * Linear Search
 * Reverse Array
 * Second Largest
-* More coming soon...
+* Second Smallest
+* Sorted Array Check
+* Positive / Negative / Zero Count
+* Even-Index & Odd-Index Problems
+* Conditional Sum & Count Problems
+
+### Array Techniques
+
+* Array Traversal
+* Swapping Elements
+* Two-Pointer Technique
+* In-Place Modification
+* Basic Time & Space Complexity
 
 ---
 
