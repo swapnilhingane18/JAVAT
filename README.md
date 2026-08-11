@@ -88,6 +88,19 @@ My goal is to master Java fundamentals before moving to enterprise technologies 
 
 ---
 
+## 🧩 LeetCode Practice
+
+I am approaching LeetCode progressively — each problem I attempt is directly linked to a concept I have already practiced in this repository. This ensures that I understand the underlying logic before applying it to competitive problems, rather than memorising solutions.
+
+| # | Problem | Difficulty | Status |
+|---|---------|------------|--------|
+| 344 | Reverse String | Easy | ✅ Solved |
+| 27 | Remove Element | Easy | 🚧 Currently Learning |
+| 283 | Move Zeroes | Easy | 📅 Upcoming |
+| 704 | Binary Search | Easy | 📅 Upcoming |
+
+---
+
 # 📂 Repository Structure
 
 ```text
